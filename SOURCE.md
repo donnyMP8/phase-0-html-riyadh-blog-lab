@@ -1,6 +1,6 @@
 HEADING
 
-`Welcome to Riyadh`
+dh`Welcome to Riya`
 
 SUB HEAD
 
@@ -12,7 +12,7 @@ IMAGE 1 FILE
 
 IMAGE 1 ALT TEXT
 
-`Modern Transit`
+t``Modern Transi
 
 SMALLER SUB HEAD
 
